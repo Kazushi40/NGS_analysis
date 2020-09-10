@@ -2,18 +2,17 @@
 
 Author: Kazushi Suzuki and Yoshihiro Shimizu
 
-Revised: 2020-09-01 
+Revised: 2020-09-10 
 
-Reference: 
+Reference: In preparation
 
 Purpose: Analysis of next generation sequencing data for an Affibody library
 
 Inquiry? Email: kazusuzuki40@gmail.com
 
 # Data
-Raw data was deposited into the Squence Read Archive (SRA) of the U.S. National Library of Medicine from the National Center for Biotechnoly Information (NCBI) 
+Raw data was deposited into the DDBJ Sequence Read Archive.
 
-Accession numbers: 
-
+Accession numbers: DRR243933 and DRR243934
 
 
