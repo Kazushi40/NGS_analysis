@@ -13,6 +13,6 @@ Inquiry? Email: kazusuzuki40@gmail.com
 # Data
 Raw data was deposited into the DDBJ Sequence Read Archive.
 
-Accession numbers: DRR243933 and DRR243934
+Accession numbers: 
 
 
